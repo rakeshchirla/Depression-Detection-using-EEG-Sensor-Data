@@ -1,2 +1,2 @@
-#Depression-Detection-using-EEG-Sensor-Data'
+#Depression-Detection-using-EEG-Sensor-Data
 
